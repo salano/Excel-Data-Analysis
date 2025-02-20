@@ -21,3 +21,8 @@ iferror
 vlookup
 macro
 VBA
+Moving Averages
+
+1. Simple Moving Average
+2. Cummulative Moving Average
+3. Exponential Moving Average
