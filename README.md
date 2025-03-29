@@ -26,3 +26,7 @@ Moving Averages
 1. Simple Moving Average
 2. Cummulative Moving Average
 3. Exponential Moving Average
+
+Excel Report - Call Center Calls analysis by representatives
+---DAX, Pivot Tables, Charts and Formulas (data-excel-portfolio.xlsx)
+![Alt text](Call_Center_report.png)
